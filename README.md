@@ -1,6 +1,5 @@
 # Site settings
  Denis Karemanaj
- Denis Karemanaj
 
 Aftesite:
  - Programim
