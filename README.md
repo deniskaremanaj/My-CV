@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Site settings
+title: Denis Karemanaj
+name: Denis Karemanaj
+#User specific content
 
-You can use the [editor on GitHub](https://github.com/deniskaremanaj/My-CV/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+#Any buzzword skills you want to include
+skills:
+ - Groovy
+ - Spring MVC
+ - Spring Boot
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#Work experience is required
+roles:
+ - title: Operator
+   start: 2019
+   end: 2020
+   employer: Comdata
+   
+#Education is required
+education: Bacelor ne Inxhinieri matematike dhe informatike
+   date: 2018
+   school: Universiteti i Tiranes
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/deniskaremanaj/My-CV/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#An additional info freetext section is optional at the bottom of the page - can be text or HTML
+additionalinfo: |
+   <strong>JVM</strong>: Kam pak eksperience ne programim ne gjuhet JAVA, C#, C.
