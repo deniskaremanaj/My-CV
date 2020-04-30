@@ -1,26 +1,19 @@
 # Site settings
-title: Denis Karemanaj
-name: Denis Karemanaj
-#User specific content
+ Denis Karemanaj
+ Denis Karemanaj
 
-#Any buzzword skills you want to include
-skills:
- - Groovy
- - Spring MVC
- - Spring Boot
+Aftesite:
+ - Programim
+ - Shitje
 
-#Work experience is required
-roles:
+
+Pozicioni:
  - title: Operator
-   start: 2019
-   end: 2020
-   employer: Comdata
+  - start: 2019
+  - end: 2020
+  - punedhenesi: Comdata
    
-#Education is required
-education: Bacelor ne Inxhinieri matematike dhe informatike
-   date: 2018
-   school: Universiteti i Tiranes
 
-#An additional info freetext section is optional at the bottom of the page - can be text or HTML
-additionalinfo: |
-   <strong>JVM</strong>: Kam pak eksperience ne programim ne gjuhet JAVA, C#, C.
+Shkollimi: Bacelor ne Inxhinieri matematike dhe informatike
+   Data: 2018
+   Shkolla: Universiteti i Tiranes
