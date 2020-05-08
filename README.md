@@ -1,6 +1,6 @@
 Denis Karemanaj
  
- <img src="images/denis.JPG" width="150" >
+ <img src="images/denis.JPG" width="120" >
  
 
  Aftesite:
