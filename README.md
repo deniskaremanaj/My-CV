@@ -1,6 +1,7 @@
 Denis Karemanaj
  
-
+ <img src="images/denis.JPG" width=150 >
+ 
 
 Aftesite:
  - Programim
