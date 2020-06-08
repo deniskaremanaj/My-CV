@@ -17,7 +17,7 @@ CAPACITÀ PERSONALI
 CONOSCENZA LINGUE STRANIERE
 - Inglese (scritto e parlato) ottimo. 
 - Italiano (scritto e parlato) buono.
-- Spagnolo (scritto e parlato) buono.
+- Spagnolo (scritto e parlato) sufficiente.
 
 
 ESPERIENZE DI LAVORO
